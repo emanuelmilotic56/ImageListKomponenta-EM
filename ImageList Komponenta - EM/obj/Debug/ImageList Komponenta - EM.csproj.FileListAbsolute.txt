@@ -1,0 +1,10 @@
+C:\Users\Milotić\source\repos\ImageList Komponenta - EM\ImageList Komponenta - EM\bin\Debug\ImageList Komponenta - EM.exe.config
+C:\Users\Milotić\source\repos\ImageList Komponenta - EM\ImageList Komponenta - EM\bin\Debug\ImageList Komponenta - EM.exe
+C:\Users\Milotić\source\repos\ImageList Komponenta - EM\ImageList Komponenta - EM\bin\Debug\ImageList Komponenta - EM.pdb
+C:\Users\Milotić\source\repos\ImageList Komponenta - EM\ImageList Komponenta - EM\obj\Debug\ImageList Komponenta - EM.csprojAssemblyReference.cache
+C:\Users\Milotić\source\repos\ImageList Komponenta - EM\ImageList Komponenta - EM\obj\Debug\ImageList_Komponenta___EM.Form1.resources
+C:\Users\Milotić\source\repos\ImageList Komponenta - EM\ImageList Komponenta - EM\obj\Debug\ImageList_Komponenta___EM.Properties.Resources.resources
+C:\Users\Milotić\source\repos\ImageList Komponenta - EM\ImageList Komponenta - EM\obj\Debug\ImageList Komponenta - EM.csproj.GenerateResource.cache
+C:\Users\Milotić\source\repos\ImageList Komponenta - EM\ImageList Komponenta - EM\obj\Debug\ImageList Komponenta - EM.csproj.CoreCompileInputs.cache
+C:\Users\Milotić\source\repos\ImageList Komponenta - EM\ImageList Komponenta - EM\obj\Debug\ImageList Komponenta - EM.exe
+C:\Users\Milotić\source\repos\ImageList Komponenta - EM\ImageList Komponenta - EM\obj\Debug\ImageList Komponenta - EM.pdb
